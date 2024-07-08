@@ -38,6 +38,18 @@ I have a bit of experience in a lot of coding languages, but here are some i am 
 
 <table>
     <tr>
+        <td>
+            <a href="https://github.com/Kuttesch/hex">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=hex&theme=dark" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/Kuttesch/kuttesch.github.io">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=kuttesch.github.io&theme=dark" />
+            </a>
+        </td>
+    </tr>
+    <tr>
         <td>   
             <a href="https://github.com/Kuttesch/SysInfo">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=SysInfo&theme=dark" />
@@ -46,18 +58,6 @@ I have a bit of experience in a lot of coding languages, but here are some i am 
         <td>
             <a href="https://github.com/Kuttesch/instAll">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=install&theme=dark" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/Kuttesch/HorizonStart">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=HorizonStart&theme=dark" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/Kuttesch/kuttesch.github.io">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=kuttesch.github.io&theme=dark" />
             </a>
         </td>
     </tr>
