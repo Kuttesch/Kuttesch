@@ -2,7 +2,7 @@
 
 I am a student @ [TH-Rosenheim](https://www.th-rosenheim.de/). I am currently in my 2nd semester studying [Computer Science](https://www.th-rosenheim.de/studium/studiengaenge/bachelorstudiengaenge/informatik-bsc/). I am passionate about technology and enjoy learning new things. I am always looking for new opportunities to grow and expand my knowledge.  
 
-**Also consider visiting my [**Website**](https://Kuttesch.github.io).**
+**Also consider visiting my [**Website**](https://Kuttesch.github.io).** or my current project [**HEX!**](https://Kuttesch.github.io/hex).
 
 ### 📊 GitHub Stats
 
