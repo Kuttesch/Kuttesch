@@ -71,7 +71,7 @@ Feel free to check out my repositories for more details!
 
 Web development has always been a favorite of mine, whether using [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)/[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)/[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) or [React](https://react.dev/).  
 I also have a fondness for [C](https://devdocs.io/c/).   
-Currently, I'm exploring and expanding my skills in [Python](https://www.python.org/)
+Currently, I'm currently expanding my skills in [Python](https://www.python.org/)
 
 ### 💬 Let's Connect
 
