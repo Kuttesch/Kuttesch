@@ -69,9 +69,9 @@ Feel free to check out my repositories for more details!
 
 ### 🌱 Current Favorites
 
-Web development has always been a favorite of mine, whether using [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)/[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)/[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) or [React](https://react.dev/).  
+Web development has always been a favorite of mine, whether using [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)/[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)/[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [React](https://react.dev/) or [Svelte](https://svelte.dev/).  
 I also have a fondness for [C](https://devdocs.io/c/).   
-Currently, I'm currently expanding my skills in [Python](https://www.python.org/)
+I really like [Python](https://www.python.org/)'s straightforwardness, hence the mentioning here.
 
 ### 💬 Let's Connect
 
