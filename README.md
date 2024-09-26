@@ -11,10 +11,10 @@ If you are interested in colors and design, aswell consider visiting [**HEX!**](
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kuttesch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs" /><br />CSS
+        <img src="https://github-readme-stats.vercel.app/api?username=Kuttesch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuttesch&theme=transparent&hide_border=true&count_private=true" /><br />CSS
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuttesch&theme=transparent&hide_border=true&count_private=true" />
       </td>
     </tr>
   </table>
