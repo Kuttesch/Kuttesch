@@ -4,7 +4,7 @@ I am a student [@TH-Rosenheim](https://www.th-rosenheim.de/). I am currently in 
 Also i am currently a working student / Software Developer [@Heinzinger Elektronics](https://www.heinzinger.de).  
 I am passionate about technology and enjoy learning new things. I am always looking for new opportunities to grow and expand my knowledge.  
 
-If you are interested in colors and design, aswell consider visiting [**HEX!**](https://gethex.vercel.app/).
+If you are interested in colors and design, aswell consider visiting [**HEX!**](https://gethex.de/).
 
 ### 📊 GitHub Stats
 <div align="center">
