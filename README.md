@@ -6,6 +6,11 @@ I am passionate about technology and enjoy learning new things. I am always look
 
 If you are interested in colors and design, aswell consider visiting [**HEX!**](https://gethex.de/).
 
+### 🎄 Advent of code 🎄
+Here you can find my solutions for the [Advent of Code](https://adventofcode.com/) challenges:  
+[AdventOfCode](https://www.github.com/Kuttesch/adventofcode)  
+
+
 ### 📊 GitHub Stats
 <div align="center">
   <table border="0">
@@ -22,7 +27,7 @@ If you are interested in colors and design, aswell consider visiting [**HEX!**](
 
 ### 🔧 Technical Skills/Coding
 
-I have a bit of experience in a lot of coding languages, but here are some i am more comfortable with.
+I have a bit of experience in a lot of coding languages and technologies, but here are some I am more comfortable with.
 
 <div align="center">
   <table>
@@ -58,16 +63,16 @@ I have a bit of experience in a lot of coding languages, but here are some i am 
                   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=hex&theme=dark" />
               </a>
           </td>
-          <td>
-              <a href="https://github.com/Kuttesch/kuttesch.github.io">
-                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=kuttesch.github.io&theme=dark" />
+          <td>              
+              <a href="https://github.com/Kuttesch/SysInfoC">
+                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=SysInfoC&theme=dark" />
               </a>
           </td>
       </tr>
       <tr>
           <td>   
-              <a href="https://github.com/Kuttesch/SysInfo">
-                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=SysInfo&theme=dark" />
+              <a href="https://github.com/Kuttesch/kuttesch.github.io">
+                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=kuttesch.github.io&theme=dark" />
               </a>
           </td>
           <td>
