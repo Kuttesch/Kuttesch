@@ -6,11 +6,6 @@ I am passionate about technology and enjoy learning new things. I am always look
 
 If you are interested in colors and design, aswell consider visiting [**HEX!**](https://gethex.de/).
 
-### 🎄 Advent of code 🎄
-Here you can find my solutions for the [Advent of Code](https://adventofcode.com/) challenges:  
-[AdventOfCode](https://www.github.com/Kuttesch/adventofcode)  
-
-
 ### 📊 GitHub Stats
 <div align="center">
   <table border="0">
