@@ -65,8 +65,8 @@ I have a bit of experience in a lot of coding languages and technologies, but he
       </tr>
       <tr>
           <td>   
-              <a href="https://github.com/Kuttesch/kuttesch.github.io">
-                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=kuttesch.github.io&theme=dark" />
+              <a href="https://github.com/Kuttesch/WallCycle">
+                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuttesch&repo=WallCycle&theme=dark" />
               </a>
           </td>
           <td>
