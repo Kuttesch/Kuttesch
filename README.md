@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Moritz Kuttesch
 
-Currently I study Automotive Informatics at [HAW Landshut]([https://www.haw-lan](https://www.haw-landshut.de/fakultaeten/informatik/studium/bachelorstudiengaenge/automobilinformatik))
+Currently I study Automotive Informatics at [HAW Landshut](https://www.haw-landshut.de/fakultaeten/informatik/studium/bachelorstudiengaenge/automobilinformatik).  
 I am passionate about technology and enjoy learning new things. I am always looking for new opportunities to grow and expand my knowledge.  
 
 If you are interested in colors and design, aswell consider visiting [**HEX!**](https://gethex.de/).
